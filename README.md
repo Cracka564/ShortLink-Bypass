@@ -73,4 +73,5 @@ git pull
 
 ## License
 
-No license is included by default. Add a `LICENSE` file if you want to grant others specific reuse permissions.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
