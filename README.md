@@ -29,7 +29,10 @@ pkg install python git -y
 Replace `YOUR-USERNAME` with your GitHub username:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ShortLink-Bypass.git
+git clone https://github.com/Cracka564/ShortLink-Bypass.git
+
+
+```bash
 cd ShortLink-Bypass
 ```
 
@@ -74,4 +77,4 @@ git pull
 ## License
 
 This project is licensed under the MIT License.
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](https://github.com/Cracka564/ShortLink-Bypass/blob/main/LICENSE) file for details.
